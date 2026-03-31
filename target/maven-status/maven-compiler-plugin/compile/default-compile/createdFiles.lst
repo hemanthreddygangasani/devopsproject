@@ -1,6 +1,7 @@
 com\vit\devops\ticketreservationsystem\Payment.class
 com\vit\devops\ticketreservationsystem\Passenger.class
-com\vit\devops\ticketreservationsystem\RailwayDatabase.class
 com\vit\devops\ticketreservationsystem\TicketClerk.class
+com\vit\devops\ticketreservationsystem\TicketReservationSystem.class
+com\vit\devops\ticketreservationsystem\RailwayDatabase.class
 com\vit\devops\ticketreservationsystem\Train.class
 com\vit\devops\ticketreservationsystem\Ticket.class
